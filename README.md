@@ -21,7 +21,7 @@ CaseSg_rho: subroutine for the subp_rho code  <br />
 
 <br />
 
-runcodeFW: runcode. Can be run directly after creating a folder named "Results". Figures generated will be saved in "Results"  <br />
+runcodeFW: runcode. Can be run directly. Figures generated will be saved in "Results"  <br />
 plotFvaltrace: subroutine for plotting in the runcodeFW code <br />
 savefig: subroutine for saving figures in the plotFvaltrace code
 
