@@ -15,7 +15,7 @@ awstep: subrountine for the away-step linear oracle in the away-step FW method
 
 <br />
 
-FW_rho: implementation of our nonconvex FW method for problems with ![P_1](https://render.githubusercontent.com/render/math?math=P_1) <br />
+FW_rho: implementation of our nonconvex FW method for problems with ![P_1](https://render.githubusercontent.com/render/math?math=P_1) being strongly convex whose modulus is ![rho](https://render.githubusercontent.com/render/math?math=\rho)  <br />
 subp_rho: subroutine for the FW_rho code  <br />
 CaseSg_rho: subroutine for the subp_rho code  <br />
 
