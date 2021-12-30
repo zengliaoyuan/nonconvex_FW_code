@@ -9,13 +9,13 @@ This package implements new nonconvex Frank-Wolfe (FW) type methods for minimizi
 ## Matlab source codes are:
 
 
-FW_cs: implementation of our nonconvex FW method and away-step method for problems with ![P_1](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D%20P_1) being a convex function <br />
+FW_cs: implementation of our nonconvex FW method and away-step method for problems with ![P_1](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D%20P_1) being convex <br />
 fwstep: subroutine for the FW linear oracle in the FW method <br />
 awstep: subrountine for the away-step linear oracle in the away-step FW method
 
 <br />
 
-FW_rho: implementation of our nonconvex FW method for problems with ![P_1](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D%20P_1) being a strongly convex function whose modulus is ![rho](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D%20%5Crho)  <br />
+FW_rho: implementation of our nonconvex FW method for problems with ![P_1](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D%20P_1) being strongly convex whose modulus is ![rho](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D%20%5Crho)  <br />
 subp_rho: subroutine for the FW_rho code  <br />
 CaseSg_rho: subroutine for the subp_rho code  <br />
 
